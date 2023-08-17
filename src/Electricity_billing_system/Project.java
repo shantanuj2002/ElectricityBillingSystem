@@ -177,9 +177,9 @@ public class Project extends JFrame implements ActionListener {
          ImageIcon icon11=new ImageIcon(ClassLoader.getSystemResource("icons/icon9.png"));
          Image image12= icon11.getImage().getScaledInstance(20,20,Image.SCALE_DEFAULT);
          calculator.setIcon(new ImageIcon(image12));
-         calculator.setMnemonic('C');
+         calculator.setMnemonic('K');
          calculator.addActionListener(this);
-         calculator.setAccelerator(KeyStroke.getKeyStroke(KeyEvent.VK_C, ActionEvent.CTRL_MASK));
+         calculator.setAccelerator(KeyStroke.getKeyStroke(KeyEvent.VK_K, ActionEvent.CTRL_MASK));
          utility.add(calculator);
 
 //6.menu bar(exit)
