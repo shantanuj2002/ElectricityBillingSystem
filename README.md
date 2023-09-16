@@ -9,7 +9,7 @@
 #### iii. This computerized system will make the overall billing system easy, accessible, comfortable, and effective for consumers.
 
 ## Software Requirements:
-- Operating System: -Windows 1
+- Operating System: -Windows 10
 - Software: -Microsoft SQL Server
 - Front End: -Java core/swings (NetBeans)
 - Back End: -My SQL
