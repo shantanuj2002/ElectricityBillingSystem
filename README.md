@@ -1,6 +1,6 @@
 # ElectricityBillingSystem
 
-### Electricity Billing System is a software-based application.
+### Electricity Billing System is a desktop-based application.
 
 #### i. This project aims at serving the department of electricity by computerizing the billing system.
 
